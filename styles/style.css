@@ -10,7 +10,8 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  height: 293px;
+  padding-top: 93px;
+  padding-bottom: 95px;
 }
 
 .header__logo {
